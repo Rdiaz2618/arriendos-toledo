@@ -1,1 +1,0 @@
-dinero = promt ("cuanto dinero tienes?")
